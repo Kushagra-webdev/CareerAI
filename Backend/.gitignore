@@ -1,0 +1,6 @@
+.env
+
+/node_modules
+
+/src/services/temp.js
+/src/services/tempRes.json
