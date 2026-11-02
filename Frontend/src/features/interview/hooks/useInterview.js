@@ -1,6 +1,6 @@
 import { useContext, useEffect } from "react";
 import { generateInterviewReport, getInterviewReport, getAllInterviewReports, generateResumePdf } from "../services/interview.api";
-import { InterviewContext } from "../interview.context";
+import { InterviewContext } from "../Interview.context";
 import { useParams } from 'react-router';
 
 export const useInterview = () => {
