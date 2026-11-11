@@ -3,7 +3,8 @@ import {
   Eye, 
   EyeOff, 
   Layers,
-  ArrowRight
+  ArrowRight,
+  Loader
 } from 'lucide-react';
 import { useNavigate, Link } from 'react-router';
 import { useAuth } from '../hooks/auth';
